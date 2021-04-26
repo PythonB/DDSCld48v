@@ -2,7 +2,7 @@
 made by Python_B for Ludum Dare 48.
 
 All you need to know: 
- + skills resotre every 3 turns.
- + preess 'a' to attack
+ + skills restore every 3 turns.
+ + press 'a' and '1-6' to attack selected monster
    '1-3' to use skill
    'd' on special screen to go deeper
